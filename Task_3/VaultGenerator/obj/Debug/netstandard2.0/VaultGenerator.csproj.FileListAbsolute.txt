@@ -1,0 +1,10 @@
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/bin/Debug/netstandard2.0/VaultGenerator.deps.json
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/bin/Debug/netstandard2.0/VaultGenerator.dll
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/bin/Debug/netstandard2.0/VaultGenerator.pdb
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.csproj.AssemblyReference.cache
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.AssemblyInfoInputs.cache
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.AssemblyInfo.cs
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.csproj.CoreCompileInputs.cache
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.dll
+/Users/ginalig/RiderProjects/CloudellaTest/Task_3/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.pdb

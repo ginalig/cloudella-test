@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Task_3\Task_3.csproj", "{B233B80E-1E39-4FC1-80F6-BDB75FA72D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultGenerator", "VaultGenerator\VaultGenerator.csproj", "{FFE1780A-2F43-4DBE-9D76-5E1F7497CB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B233B80E-1E39-4FC1-80F6-BDB75FA72D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B233B80E-1E39-4FC1-80F6-BDB75FA72D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B233B80E-1E39-4FC1-80F6-BDB75FA72D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B233B80E-1E39-4FC1-80F6-BDB75FA72D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE1780A-2F43-4DBE-9D76-5E1F7497CB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE1780A-2F43-4DBE-9D76-5E1F7497CB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE1780A-2F43-4DBE-9D76-5E1F7497CB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE1780A-2F43-4DBE-9D76-5E1F7497CB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
