@@ -1,0 +1,10 @@
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/bin/Debug/netstandard2.0/VaultGenerator.deps.json
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/bin/Debug/netstandard2.0/VaultGenerator.dll
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/bin/Debug/netstandard2.0/VaultGenerator.pdb
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.csproj.AssemblyReference.cache
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.AssemblyInfoInputs.cache
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.AssemblyInfo.cs
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.csproj.CoreCompileInputs.cache
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.dll
+/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/obj/Debug/netstandard2.0/VaultGenerator.pdb
