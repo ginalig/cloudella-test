@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/VaultGenerator.csproj": {}
+    "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/VaultGenerator/VaultGenerator.csproj": {}
   },
   "projects": {
-    "/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/VaultGenerator.csproj": {
+    "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/VaultGenerator/VaultGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/VaultGenerator.csproj",
+        "projectUniqueName": "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/VaultGenerator/VaultGenerator.csproj",
         "projectName": "VaultGenerator",
-        "projectPath": "/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/VaultGenerator.csproj",
+        "projectPath": "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/VaultGenerator/VaultGenerator.csproj",
         "packagesPath": "/Users/ginalig/.nuget/packages/",
-        "outputPath": "/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/obj/",
+        "outputPath": "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/VaultGenerator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ginalig/.nuget/NuGet/NuGet.Config"

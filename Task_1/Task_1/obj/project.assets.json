@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ginalig/RiderProjects/TestStartup/Task_1/Task_1/Task_1.csproj",
+      "projectUniqueName": "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/Task_1/Task_1.csproj",
       "projectName": "Task_1",
-      "projectPath": "/Users/ginalig/RiderProjects/TestStartup/Task_1/Task_1/Task_1.csproj",
+      "projectPath": "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/Task_1/Task_1.csproj",
       "packagesPath": "/Users/ginalig/.nuget/packages/",
-      "outputPath": "/Users/ginalig/RiderProjects/TestStartup/Task_1/Task_1/obj/",
+      "outputPath": "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/Task_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ginalig/.nuget/NuGet/NuGet.Config"

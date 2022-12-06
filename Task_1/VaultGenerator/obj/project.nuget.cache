@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9HIEtVDg9Ez1d2rxcVWcnIRmpumHUEvyiGOguhScWF+38l5xDmkfaT4wZiDtqUFSP73pwm2WTTSwS5+6e2eV1w==",
+  "dgSpecHash": "uaB8dtK9w08598Vi5y7rXunR4xuKdrRx1dgyAJbT7cjQdvBSnpctn9oHpblcL5DDI2Ll4jssGBKd4mI7BDIOrw==",
   "success": true,
-  "projectFilePath": "/Users/ginalig/RiderProjects/TestStartup/Task_1/VaultGenerator/VaultGenerator.csproj",
+  "projectFilePath": "/Users/ginalig/RiderProjects/CloudellaTest/Task_1/VaultGenerator/VaultGenerator.csproj",
   "expectedPackageFiles": [
     "/Users/ginalig/.nuget/packages/humanizer.core/2.2.0/humanizer.core.2.2.0.nupkg.sha512",
     "/Users/ginalig/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
